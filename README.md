@@ -50,8 +50,6 @@ Criar uma aplicação frontend que consome a API pública do [TMDB (The Movie Da
 
 - Paginação
 - Deploy no Vercel ou Netlify
-- Testes básicos (Jest + React Testing Library)
-- Typescript
 
 ---
 
