@@ -65,4 +65,4 @@ Criar uma aplicação frontend que consome a API pública do [TMDB (The Movie Da
 
 ## 📅 Prazo sugerido
 
-Você pode fazer no seu tempo, mas recomendamos finalizar em até **3 dias**.
+Você pode fazer no seu tempo, mas recomendamos finalizar em até **5 dias**.
